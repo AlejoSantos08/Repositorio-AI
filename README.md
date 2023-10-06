@@ -1,2 +1,2 @@
 # Repositorio-AI
-My AI: https://teachablemachine.withgoogle.com/models/[...]
+My AI: https://teachablemachine.withgoogle.com/models/vl-rHGKqu/
